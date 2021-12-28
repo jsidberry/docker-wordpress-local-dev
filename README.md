@@ -11,7 +11,7 @@ docker-compose up -d
 
 ### After running compose...
 in a browser, type `http://localhost:8000`
-this will bring up the init Wordpress 5-minute easy setup start page.
+this will bring up the initial Wordpress 5-minute easy setup start page.
 - select `English`
 - admin username is `admin`
 - admin password is `password`
