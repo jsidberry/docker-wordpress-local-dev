@@ -6,7 +6,8 @@ in a terminal (bash shell)
 ```cd ~/projects
 git clone https://github.com/jsidberry/docker-wordpress-local-dev.git
 cd docker-wordpress-local-dev
-docker-compose up -d```
+docker-compose up -d
+```
 
 ### After running compose...
 in a browser, type `http://localhost:8000`
